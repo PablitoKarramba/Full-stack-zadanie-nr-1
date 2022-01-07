@@ -29,7 +29,7 @@ export default () => {
 
       <p>
         <h2>Uruchomienie aplikacji</h2>
-        Po rozpakowaniu aplikacji i przejściu do katalogu Zal należy wykonać polecenie <code>docker compose up</code>.
+        Po rozpakowaniu aplikacji i przejściu do katalogu projektu należy wykonać polecenie <code>docker-compose up</code>.
       </p>
 
       <p>
