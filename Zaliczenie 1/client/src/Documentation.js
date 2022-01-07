@@ -20,7 +20,7 @@ export default () => {
            <li><b>Strona główna</b> - informacja o celu strony i autorze<br/>
            <img src={"./2.png"}/>
            </li>
-           <li><b>Kalkulator Fibonacciego</b> - należy podać element k w zakresie <0;20>, dla którego chcemy uzyskać wartość ciągu Fibonacciego. Rezultat pojawia się na liście pośród pozostałych wyliczonych wartości wyświetlanych z bazy danych. Historia pozwala odczytać ostatnie 10 współczynników wprowadzonych przez użytkownika.<br/>
+           <li><b>Kalkulator Fibonacciego</b> - należy podać element k w zakresie od 0 do 20, dla którego chcemy uzyskać wartość ciągu Fibonacciego. Rezultat pojawia się na liście pośród pozostałych wyliczonych wartości wyświetlanych z bazy danych. Historia pozwala odczytać ostatnie 10 współczynników wprowadzonych przez użytkownika.<br/>
            <img src={"./3.png"}/>
            </li>
            <li><b>Opis</b> - dokumentacja działania aplikacji</li>
