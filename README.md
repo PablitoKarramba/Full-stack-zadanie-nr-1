@@ -40,10 +40,13 @@ Po rozpakowaniu aplikacji i przejściu do katalogu Zal należy wykonać poleceni
 ## Modyfikacje
 
 - dodano Home.js z treścią strony głównej
-- zmieniono Fib Calc.js, w którym 
+- poprawki Fib Calc.js, w którym 
   - weryfikowana jest m.in. prawidłowa wartość elementu k
   - wyświetlane są odpowiedzi serwera na akcje użytkownika
 - dodano Documentation.js z treścią dokumentacji dla podstrony Opis
 - modyfikacja App.js do prawidłowej współpracy z nowymi podstronami
+- index.js serwera, gdzie w bazie danych dodano kolumnę id w tabeli _values_; dostosowano zapytanie aby wyświetlać 10 ostatnich wartości i zabezpieczono przed dodaniem do bazy danych wartości spoza dopuszczalnego zakresu
+- index.js workera - zmieniłem sposób obliczenia k-tego elementu ciągu Fibonacciego na zaproponowany przeze mnie w laboratorium 8
+- style css
 
 Zmiany w kodzie źródłowym mogą być wprowadzane do działającej usługi bez konieczności ponownego budowania obrazów.
