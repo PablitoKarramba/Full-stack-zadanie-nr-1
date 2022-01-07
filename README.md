@@ -35,7 +35,7 @@ Użytkownik otrzymuje dostęp do 3 stron:
 
 ## Uruchomienie aplikacji
 
-Po rozpakowaniu aplikacji i przejściu do katalogu Zal należy wykonać polecenie `docker compose up`.
+Po rozpakowaniu aplikacji i przejściu do katalogu Zal należy wykonać polecenie `docker-compose up`.
 
 ## Modyfikacje
 
